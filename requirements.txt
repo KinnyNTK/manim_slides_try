@@ -1,0 +1,2 @@
+# Manim Community + manim-slides (presentation mode) + Qt presenter
+manim-slides[pyside6-full]
